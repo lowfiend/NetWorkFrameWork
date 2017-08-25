@@ -1,8 +1,8 @@
 package com.neyo.networkframework.network;
 
-import com.neyo.networkframework.BaseResponse;
 import com.neyo.networkframework.common.ApiException;
 import com.neyo.networkframework.common.GlobalConstant;
+import com.neyo.networkframework.model.BaseResponse;
 import com.neyo.networkframework.model.User;
 import io.reactivex.Observable;
 import io.reactivex.Observer;
