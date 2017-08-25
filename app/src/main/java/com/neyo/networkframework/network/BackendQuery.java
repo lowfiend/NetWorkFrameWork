@@ -1,6 +1,6 @@
 package com.neyo.networkframework.network;
 
-import com.neyo.networkframework.BaseResponse;
+import com.neyo.networkframework.model.BaseResponse;
 import com.neyo.networkframework.model.User;
 import io.reactivex.Observable;
 import retrofit2.http.GET;

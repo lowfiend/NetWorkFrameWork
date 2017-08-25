@@ -1,6 +1,4 @@
-package com.neyo.networkframework;
-
-import com.neyo.networkframework.model.ResponseStatus;
+package com.neyo.networkframework.model;
 
 /**
  * Created by Neyo on 2017/8/24.
